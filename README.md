@@ -16,10 +16,7 @@ Instructions on setting up and running this project locally.
 ### Prerequisites
 
 To get started with this application, you need to have Node.js and npm installed on your computer.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Download and install node.js from [here...](https://nodejs.org/en)
 
 ### Installation
 
